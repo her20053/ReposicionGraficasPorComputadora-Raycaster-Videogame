@@ -1,0 +1,25 @@
+Los requerimientos que se cumplieron para esta entrega fueron:
+
+(0 a 30 puntos) [Criterio subjetivo] Según la estética de su nivel
+
+(0 a 30 puntos) Según cuantos fps pueda renderizar su software
+
+10 puntos mas por colocar un contador de fps
+
+(20 puntos) Por implementar una cámara con movimiento hacia delante y hacia atrás y rotación (como la que hicimos en clase)
+
+No debe poder atravesar a las paredes 
+
+10 puntos más por implementar rotación con el mouse (solo horizontal)
+
+(5 puntos) Por agregar música de fondo
+
+(10 puntos) Por agregar efectos de sonido
+
+(5 puntos) Por agregar una pantalla de bienvenida
+
+(10 puntos mas) si la pantalla permite seleccionar entre multiples niveles 
+
+Para poder correr este modulo porfavor dirigirse a su consola/terminar y ejecutar:
+
+python .\main.py
